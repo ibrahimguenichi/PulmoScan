@@ -56,6 +56,16 @@ pip install -r requirements.txt
 ```
 ---
 
+## 🧑‍💻 Authors
+
+- 👨‍💻 **[Guenichi Ibrahim](https://www.linkedin.com/in/ibrahim-guenichi-b38a77217/)**
+- 👩‍💻 **[Abdellaoui Malek](https://www.linkedin.com/in/malek-abdellaoui)**
+- 👨‍💻 **[Bettaieb Ahmed](https://www.linkedin.com/in/ahmed-bettaieb-a45285348/)**
+- 👩‍💻 **[Ben Mohamed Malak](https://www.linkedin.com/in/malak-ben-mohamed-238663348/)**
+- 👨‍💻 **[Kacem Skander](https://www.linkedin.com/in/skander-kacem-45639a348/)**
+- 👩‍💻 **[Derouich Samira](https://www.linkedin.com/in/derouich-samira-96095023b/)**
+
+
 **Disclaimer**: This project is intended as a research tool and should not replace professional medical diagnoses. Always consult healthcare professionals for accurate diagnoses.
 
 ---
